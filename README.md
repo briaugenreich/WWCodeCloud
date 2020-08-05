@@ -1,9 +1,8 @@
 # WWCodeCloud
-TODO replace with image like python
 
-This repo contains content, code & resources for WWCodeCloud Events.
+**`TODO replace with image like python`**
 
-## Learn more about Women Who Code Cloud
+This repo contains content, code & resources for the Women Who Code Cloud Track Events.
 
 The Cloud technical track of Women Who Code is a community dedicated to inspiring women to excel in their technology careers as cloud and backend software engineers. We bring together women from all over the world for online learning opportunities. Our free monthly webinars cover various topics around software engineering and the cloud.
 
@@ -13,11 +12,11 @@ If you're interested in joining the community as a member or volunteer please vi
 
 ## Social
 
-TODO replace with social logos
+**`TODO replace with social logos`**
 
-[Twitter](https://twitter.com/wwcodecloud),
-[Instagram](https://www.instagram.com/wwcodecloud/)
-[Facebook](https://www.facebook.com/Women-Who-Code-Cloud-147081753767317)
+[Twitter](https://twitter.com/wwcodecloud)  
+[Instagram](https://www.instagram.com/wwcodecloud/)  
+[Facebook](https://www.facebook.com/Women-Who-Code-Cloud-147081753767317)  
 
 
 ## About Women Who Code
