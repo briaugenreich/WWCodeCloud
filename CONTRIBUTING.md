@@ -14,19 +14,40 @@ First and foremost thanks for your contributions!!! :sparkling_heart::sparkling_
 
 ## Adding Event Resources
 
-If there is a github repository with code to share add the following to the [gitmodules](events/.gitmodules) file.
+1. If there is a github repository with code to share run the following in your terminal.
 
-```github
-[submodule "Event Title"]
-	path = EVENT_TITLE
-	url = GITHUB_REPO_URL
-```
+  ```shell
+  export REPO_URL="<FILL_ME_IN>"
+  cd events
+  git submodule add $REPO_URL
+  ```
+2. Upload the event graphic to the [images](docs/images) directory.
 
-In the [events](events) folder create a markdown file with the name `EVENT-TITLE.md`
+3. Copy and paste a new table entry in the [README](README.md#event-resources). Fill in the appropriate and necessary details. **Be sure to double check everything was updated.** Also be mindful of style and formatting.
 
-Copy the [event markdown template](EVENT-TEMPLATE.md) and fill in the details.
+  a) Image `href` should point to `$REPO_URL` from _step 1_ (this could also be a link to slides if the speaker wanted to share those without a repo.)
+  b) Image `alt` should be the `EVENT_TITLE`
+  c) Image `src` should be the relative path to the uploaded image from _step 2_   
+  d) Update the `EVENT_TITLE` in the description box  
+  e) Update the `EVENT_DESCRIPTION` with zoom description
+  f) Update the `VIDEO_LINK` with the youtube url
+  g) Update the `SPEAKER_NAME` & `SPEAKER_TITLE`
 
-
+  ```markdown
+  | <a href="REPO_URL"><img alt="EVENT_TITLE." align="center" width="800" src="docs/images/IMAGE_NAME"></a> | **EVENT TITLE** <br/><br/> EVENT_DESCRIPTION <br/><br/> [Video Recording](VIDEO_LINK)- SPEAKER_NAME, _SPEAKER_TITLE_ |
+  ```
 
 
 ## Adding Other Resources
+
+1. Create a new folder for the resources you are sharing.
+
+2. Add a readme with details about what is being shared (description + links)
+
+3. If sharing code, be sure to first upload the coding project to your personal repo (we want your Github profile to get all the credit). Then link to the repo by running the following in your folder from _step 1_.
+
+  ```shell
+  #make sure you are in your directory - cd DIR_NAME
+  export REPO_URL="<FILL_ME_IN>"
+  git submodule add $REPO_URL
+  ```
