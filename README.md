@@ -1,4 +1,4 @@
-<a href="https://www.womenwhocode.com/cloud"><img alt="Women Who Code Cloud Technical Track." align="center" src="docs/images/readme-header.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.womenwhocode.com/cloud"><img alt="Women Who Code Cloud Technical Track." align="center" src="docs/images/readme_header.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
 
 This repo contains content, code & resources for the Women Who Code Cloud Track Events.
 
@@ -28,7 +28,7 @@ Clicking on a logo below will take you to a `README` with links the event slides
 
 | | |
 | ----------- | ----------- |
-| <a href="https://www.womenwhocode.com/cloud"><img alt="First event." align="center" width="800" src="https://octodex.github.com/images/yaktocat.png"></a> | **Event Title** <br><br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  <br/><br/> - _Speaker Name, Title_
+| <a href="events/Bri_Test_Event.md"><img alt="Bri Test Event." align="center" width="800" src="https://octodex.github.com/images/yaktocat.png"></a> | **Bris Test Event** <br><br>  Placeholder in the table until we have new resources to add from previous and upcoming events. <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  <br/><br/> -Briana Augenreich, _Master Software Engineer_
 |
 
 </p>
