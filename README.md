@@ -59,3 +59,7 @@ Or just [create an issue](https://github.com/womenwhocode/wwcodecloud/issues) - 
 ## Credits
 
 Thank you to our lovely [contributors](https://github.com/womenwhocode/wwcodecloud/graphs/contributors).
+
+<br>
+
+<a href="https://www.womenwhocode.com/cloud"><img alt="Women Who Code Cloud Technical Track." align="center" src="docs/images/readme_footer.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
