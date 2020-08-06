@@ -1,10 +1,10 @@
 <a href="https://www.womenwhocode.com/cloud"><img alt="Women Who Code Cloud Technical Track." align="center" src="docs/images/readme_header.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
 
-This repo contains content, code & resources for the Women Who Code Cloud Track Events.
+Welcome! This repo contains content, code & resources for the Women Who Code Cloud Track Events.
 
 The Cloud technical track of Women Who Code is a community dedicated to inspiring women to excel in their technology careers as cloud and backend software engineers. We bring together women from all over the world for online learning opportunities. Our free monthly webinars cover various topics around software engineering and the cloud.
 
-💻 Technical Webinars 📲 Coding Resources 💭 Slack Study Group Sessions 🗺️ Supportive Global Network
+💻 Technical Webinars 📲 Coding Resources 💭 Study Group Sessions 🗺️ Supportive Global Network
 
 **If you're interested in joining the community as a member or volunteer please visit our [website](https://www.womenwhocode.com/cloud) for more information! Or send us an [email](cloud@womenwhocode.com).**
 
@@ -19,16 +19,16 @@ Join our community conversations!
 
 ## Event Resources
 
-Clicking on a logo below will take you to a `README` with links the event slides, recordings, and code base (as applicable). Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
+Expand the section below to find all the resources shared during past and upcoming events. Clicking on a logo will take you to the event code base or slides. You will also find a link to the video recording in the event description. All of our events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
 
-:computer::two_hearts: We welcome your contributions! To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
+To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
 
-<details><summary>Click me for event resources</summary>
+<details><summary>:small_red_triangle_down: Click me for event resources! :small_red_triangle_down: </summary>
 <p>
 
 | | |
 | ----------- | ----------- |
-| <a href="events/Bri_Test_Event.md"><img alt="Bri Test Event." align="center" width="800" src="https://octodex.github.com/images/yaktocat.png"></a> | **Bris Test Event** <br><br>  Placeholder in the table until we have new resources to add from previous and upcoming events. <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  <br/><br/> -Briana Augenreich, _Master Software Engineer_
+| <a href="events/Bri_Test_Event.md"><img alt="Bri Test Event." align="center" width="600" src="https://octodex.github.com/images/yaktocat.png"></a> | **Bris Test Event** <br><br>  Placeholder in the table until we have new resources to add from previous and upcoming events. <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  <br/><br/> -Briana Augenreich, _Master Software Engineer_
 |
 
 </p>
