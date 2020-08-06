@@ -1,0 +1,3 @@
+[submodule "Bri Test Event"]
+	path = BRI_TEST_EVENT
+	url = https://github.com/briaugenreich/lambda-slack-chat-bot

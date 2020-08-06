@@ -21,12 +21,19 @@ Join our community conversations!
 
 Clicking on a logo below will take you to a `README` with links the event slides, recordings, and code base (as applicable). Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
 
-For folks :computer: contributing to our resources follow the setup instructions [here](docs/event-resource-setup.md).
+:computer::two_hearts: We welcome your contributions! To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
+
+<details><summary>Click me for event resources</summary>
+<p>
 
 | | |
 | ----------- | ----------- |
 | <a href="https://www.womenwhocode.com/cloud"><img alt="First event." align="center" width="800" src="https://octodex.github.com/images/yaktocat.png"></a> | **Event Title** <br><br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  <br/><br/> - _Speaker Name, Title_
 |
+
+</p>
+</details>
+
 
 ## About Women Who Code
 
@@ -36,3 +43,19 @@ WWCode is the largest and most active community of technical women in the world.
 
 Women Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community. Our events are intended to inspire women to excel in technology careers, and anyone who is there for this purpose is welcome. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. This Code of Conduct was created to clearly define what we mean by a harassment-free experience, so that our community and those who support it are clear about our intent and have access to procedures for addressing issues, should they arise.
 [Code of Conduct](https://www.womenwhocode.com/codeofconduct)
+
+## Contributing
+
+We welcome your contributions! :two_hearts: To contribute to this repo follow the setup instructions below
+
+1. 🍴 Fork this repo  
+2. 🔨 Follow the[contributing guidelines](CONTRIBUTING.md)
+3. 👥 Add yourself as a contributor under the credits section
+4. 🔧 Make a pull request
+5. 🎉 Get your pull request approved - success!
+
+Or just [create an issue](https://github.com/womenwhocode/wwcodecloud/issues) - any little bit of help counts! 😊
+
+## Credits
+
+Thank you to our lovely [contributors](https://github.com/womenwhocode/wwcodecloud/graphs/contributors).
