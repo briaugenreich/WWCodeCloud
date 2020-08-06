@@ -12,7 +12,7 @@ The Cloud technical track of Women Who Code is a community dedicated to inspirin
 
 Join our community conversations!
 
-[Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-fsr8x4av-mmSMyzczGiKjBdKAODs0Dg)
+[Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-fsr8x4av-mmSMyzczGiKjBdKAODs0Dg)  
 [Twitter](https://twitter.com/wwcodecloud)  
 [Instagram](https://www.instagram.com/wwcodecloud/)  
 [Facebook](https://www.facebook.com/Women-Who-Code-Cloud-147081753767317)  
@@ -28,7 +28,7 @@ To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTIN
 
 | | |
 | ----------- | ----------- |
-| <a href="events/Bri_Test_Event.md"><img alt="Bri Test Event." align="center" width="600" src="https://octodex.github.com/images/yaktocat.png"></a> | **Bris Test Event** <br><br>  Placeholder in the table until we have new resources to add from previous and upcoming events. <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  <br/><br/> -Briana Augenreich, _Master Software Engineer_
+| <a href="events/Bri_Test_Event.md"><img alt="Bri Test Event." align="center" width="400" src="https://octodex.github.com/images/yaktocat.png"></a> | **Bris Test Event** <br><br>  Placeholder in the table until we have new resources to add from previous and upcoming events. <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  <br/><br/> -Briana Augenreich, _Master Software Engineer_
 |
 
 </p>
@@ -46,7 +46,7 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 
 ## Contributing
 
-We welcome your contributions! :two_hearts: To contribute to this repo follow the setup instructions below
+We welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
 
 1. 🍴 Fork this repo  
 2. 🔨 Follow the [contributing guidelines](CONTRIBUTING.md)
