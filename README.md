@@ -10,13 +10,23 @@ The Cloud technical track of Women Who Code is a community dedicated to inspirin
 
 ## Social
 
-**`TODO replace with social logos`**
+Join our community conversations!
 
-[Slack]()
+[Slack](https://join.slack.com/t/wwcodecloud/shared_invite/zt-fsr8x4av-mmSMyzczGiKjBdKAODs0Dg)
 [Twitter](https://twitter.com/wwcodecloud)  
 [Instagram](https://www.instagram.com/wwcodecloud/)  
 [Facebook](https://www.facebook.com/Women-Who-Code-Cloud-147081753767317)  
 
+## Event Resources
+
+Clicking on a logo below will take you to a `README` with links the event slides, recordings, and code base (as applicable). Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
+
+For folks :computer: contributing to our resources follow the setup instructions [here](docs/event-resource-setup.md).
+
+| | |
+| ----------- | ----------- |
+| <a href="https://www.womenwhocode.com/cloud"><img alt="First event." align="center" width="250" src="https://octodex.github.com/images/yaktocat.png"></a> | **Event Title** <br><br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  <br/><br/> - _Speaker Name, Title_
+|
 
 ## About Women Who Code
 
