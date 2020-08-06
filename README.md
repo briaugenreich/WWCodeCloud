@@ -1,4 +1,4 @@
-<a href="https://www.womenwhocode.com/cloud"><img alt="Women Who Code Cloud Technical Track." align="center" src="docs/images/readme_header.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.womenwhocode.com/cloud"><img alt="Women Who Code Cloud Technical Track." align="center" src="docs/images/readme_welcome_header.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
 
 Welcome! This repo contains content, code & resources for the Women Who Code Cloud Track Events.
 

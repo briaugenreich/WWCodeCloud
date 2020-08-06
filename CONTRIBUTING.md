@@ -24,7 +24,15 @@ If you have resources you would like to share from your event or resources you t
     ```
 2. Upload the event graphic to the [images](docs/images) directory.
 
-3. Copy and paste a new table entry in the [README](README.md#event-resources). Fill in the applicable details. **Be sure to double check everything was updated.** Also be mindful of style and formatting.
+3. Copy and paste a new table entry in the [README](README.md#event-resources). Fill in the applicable details. **Be sure to double check everything was updated.** Also be mindful of style and formatting.  
+
+
+
+    ```markdown
+    | <a href="REPO_URL"><img alt="EVENT_TITLE." align="center" width="400" src="docs/images/IMAGE_NAME"></a> | **EVENT TITLE** <br/><br/> EVENT_DESCRIPTION <br/><br/> [Slides](SLIDE_LINK) <br/><br/> [Video Recording](VIDEO_LINK)<br/><br/> -SPEAKER_NAME, _SPEAKER_TITLE_ |
+    ```
+
+
 
     a) Image `href` should point to `$REPO_URL` from _step 1_ (this could also be a link to slides if the speaker wanted to share those without a repo.)   
 
@@ -37,12 +45,10 @@ If you have resources you would like to share from your event or resources you t
     e) Update the `EVENT_DESCRIPTION` with zoom description  
 
     f) Update the `SLIDE_LINK` with url to slides (if speaker has shared) and `VIDEO_LINK` with the youtube url  
-    
+
     g) Update the `SPEAKER_NAME` & `SPEAKER_TITLE`  
 
-    ```markdown
-    | <a href="REPO_URL"><img alt="EVENT_TITLE." align="center" width="400" src="docs/images/IMAGE_NAME"></a> | **EVENT TITLE** <br/><br/> EVENT_DESCRIPTION <br/><br/> [Slides](SLIDE_LINK) <br/><br/> [Video Recording](VIDEO_LINK)<br/><br/> -SPEAKER_NAME, _SPEAKER_TITLE_ |
-    ```
+
 
 
 ## Adding Other Resources
