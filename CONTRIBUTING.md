@@ -24,7 +24,7 @@ If you have resources you would like to share from your event or resources you t
     ```
 2. Upload the event graphic to the [images](docs/images) directory.
 
-3. Copy and paste a new table entry in the [README](README.md#event-resources). Fill in the applicable details. **Be sure to double check everything was updated.** Also be mindful of style and formatting.  
+3. Copy and paste a new table entry **at the top** in the [README](README.md#event-resources). Fill in the applicable details. **Be sure to double check everything was updated.** Also be mindful of style and formatting.  
 
 
 
