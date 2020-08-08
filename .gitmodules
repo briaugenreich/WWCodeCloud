@@ -1,3 +1,6 @@
 [submodule "events/lambda-slack-chat-bot"]
 	path = events/lambda-slack-chat-bot
 	url = https://github.com/briaugenreich/lambda-slack-chat-bot
+[submodule "events/ecs_terraform_workshop"]
+	path = events/ecs_terraform_workshop
+	url = https://github.com/mashun4ek/ecs_terraform_workshop
